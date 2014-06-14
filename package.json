@@ -1,7 +1,7 @@
 {
   "name": "persuasion",
   "version": "1.0.0",
-  "description": "Syntactic sugar for array.sort to make sorting arrays that tiny bit less verbose",
+  "description": "Wraps Array.sort to provide shortcuts to make sorting arrays that tiny bit less verbose",
   "main": "index.js",
   "scripts": {
     "test": "mocha --reporter=spec --no-colors test",

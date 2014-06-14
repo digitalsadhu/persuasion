@@ -1,7 +1,8 @@
 persuasion
 ==========
 
-Syntactic sugar for array.sort to make sorting arrays of that tiny bit less verbose
+Wraps Array.sort to provide shortcuts to make 
+sorting arrays that tiny bit less verbose
 
 [![Build Status](https://travis-ci.org/digitalsadhu/persuasion.svg?branch=master)](https://travis-ci.org/digitalsadhu/persuasion)
 
