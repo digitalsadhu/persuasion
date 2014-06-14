@@ -1,6 +1,6 @@
 {
   "name": "persuasion",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Wraps Array.sort to provide shortcuts to make sorting arrays that tiny bit less verbose",
   "main": "index.js",
   "scripts": {
