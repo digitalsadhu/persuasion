@@ -1,6 +1,6 @@
 {
   "name": "persuasion",
-  "version": "0.0.1",
+  "version": "0.1.0",
   "description": "Syntactic sugar for array.sort to make sorting arrays of objects that tiny bit less verbose",
   "main": "index.js",
   "scripts": {
