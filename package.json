@@ -1,7 +1,7 @@
 {
-  "name": "module-name",
+  "name": "persuasion",
   "version": "0.0.1",
-  "description": "<description>",
+  "description": "Syntactic sugar for array.sort to make sorting arrays of objects that tiny bit less verbose",
   "main": "index.js",
   "scripts": {
     "test": "mocha --reporter=spec test",
@@ -9,17 +9,18 @@
   },
   "repository": {
     "type": "git",
-    "url": "git@github.com:<username>/<reponame>.git"
+    "url": "git@github.com:digitalsadhu/persuasion.git"
   },
   "keywords": [
-    ""
+    "array",
+    "sort"
   ],
-  "author": "<name> <<email>>",
+  "author": "Richard Walker <digitalsadhu@gmail.com>",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/<username>/<reponame>/issues"
+    "url": "https://github.com/digitalsadhu/persuasion/issues"
   },
-  "homepage": "https://github.com/<username>/<reponame>",
+  "homepage": "https://github.com/digitalsadhu/persuasion",
   "devDependencies": {
     "chai": "*",
     "jshint": "^2.5.1",
